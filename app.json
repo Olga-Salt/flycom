@@ -15,8 +15,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.olalalala.flycom"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
@@ -39,12 +38,6 @@
           "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
         }
       ]
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "e89239af-52aa-40bc-9ff8-12cb2bcfc117"
-      }
-    },
-    "owner": "olala-lala"
+    ]
   }
 }
